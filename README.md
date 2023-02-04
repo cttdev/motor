@@ -1,7 +1,11 @@
 # motor 🛞
 A custom motor controller design based on the STSPIN32F0.
 
-The documentation is included to justify and explain design descisions.
+The documentation is included to justify and explain design descisions. I also tired to make everything general enough that you could spec your own controller with the process I used.
+
+The schematic needs a few test points and LED's but everything crucial is there.
+
+Schematic: `MotorController.pdf`
 
 Documentation:
 1. `specs.ipynb`
